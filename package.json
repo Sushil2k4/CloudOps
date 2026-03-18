@@ -1,0 +1,10 @@
+{
+  "name": "cloudops-deploy",
+  "version": "1.0.0",
+  "description": "CI/CD Pipeline Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\"",
+    "build": "echo \"Building project...\""
+  }
+}
